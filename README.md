@@ -9,6 +9,7 @@ Reading through the guided code will help you learn about what data structures
 are, what their uses are, and how to discuss them.
 
 ### [Want to jump into the code? Click here](itsy-bitsy-data-structures.js)
+### [Want to jump into the PHP code? Click here](itsy-bitsy-data-structures.php)
 
 Also be sure to check out my other code walkthrough:
 [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler)
@@ -34,6 +35,7 @@ It's more about introducing you to the shared language of data structures.
 
 Awesome! Head on over to the
 [itsy-bitsy-data-structures.js](itsy-bitsy-data-structures.js) file.
+[itsy-bitsy-data-structures.php](itsy-bitsy-data-structures.php) file.
 
 ### I'm back, that didn't make sense
 
