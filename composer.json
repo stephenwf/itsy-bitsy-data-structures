@@ -1,0 +1,9 @@
+{
+    "name": "stephen/itsy-bitsy-data-structures",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ItsyBitsySataStructures\\" : "./src"
+        }
+    }
+}
