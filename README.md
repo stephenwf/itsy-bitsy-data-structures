@@ -44,6 +44,8 @@ inline annotations. If you want to come back when that's done, you can either
 watch/star this repo or follow me on
 [twitter](https://twitter.com/thejameskyle) for updates.
 
+Credit for original repository: https://github.com/thejameskyle
+
 ---
 
 [![cc-by-4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
